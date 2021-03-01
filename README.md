@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning data science essentials & python for data science.
 - 👯 I’m looking for internship program regarding data scientist.
 - 📫 How to reach me: suwarnabaraskar@gmail.com
-s
+
